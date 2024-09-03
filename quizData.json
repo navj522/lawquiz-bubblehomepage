@@ -1,0 +1,103 @@
+[
+  {
+      "question": "What is the Preamble to the Constitution?",
+      "options": [
+        "An introduction to the Constitution",
+        "The main body of the Constitution",
+        "A schedule in the Constitution",
+        "A list of fundamental rights"
+      ],
+      "answer": "An introduction to the Constitution"
+  },
+  {
+    "question": "How many articles are there in the Indian Constitution?",
+    "options": [
+      "395",
+      "448",
+      "365",
+      "450"
+    ],
+    "answer": "395"
+  },
+  {
+    "question": "Who is known as the Father of the Indian Constitution?",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "B.R. Ambedkar",
+      "Sardar Patel"
+    ],
+    "answer": "B.R. Ambedkar"
+  },
+  {
+    "question": "Which part of the Indian Constitution deals with Fundamental Rights?",
+    "options": [
+      "Part III",
+      "Part II",
+      "Part IV",
+      "Part I"
+    ],
+    "answer": "Part III"
+  },
+  {
+    "question": "Which article of the Indian Constitution prohibits discrimination on grounds of religion, race, caste, sex or place of birth?",
+    "options": [
+      "Article 14",
+      "Article 19",
+      "Article 15",
+      "Article 21"
+    ],
+    "answer": "Article 15"
+  },
+  {
+    "question": "Which schedule of the Indian Constitution deals with the division of powers between the Union and the States?",
+    "options": [
+      "Seventh Schedule",
+      "Sixth Schedule",
+      "Eighth Schedule",
+      "Ninth Schedule"
+    ],
+    "answer": "Seventh Schedule"
+  },
+  {
+    "question": "How many members can the President of India nominate to the Rajya Sabha?",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "answer": "12"
+  },
+  {
+    "question": "Which amendment to the Indian Constitution is known as the 'Mini-Constitution'?",
+    "options": [
+      "42nd",
+      "44th",
+      "74th",
+      "86th"
+    ],
+    "answer": "42nd"
+  },
+  {
+    "question": "Which article of the Indian Constitution empowers the Parliament to amend the Constitution?",
+    "options": [
+      "Article 368",
+      "Article 370",
+      "Article 352",
+      "Article 356"
+    ],
+    "answer": "Article 368"
+  },
+  {
+    "question": "How many fundamental duties are listed in the Indian Constitution?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "9"
+    ],
+    "answer": "11"
+  }
+
+]
