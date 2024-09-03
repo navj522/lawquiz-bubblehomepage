@@ -6,3 +6,5 @@ Original idea by Yasir , i added a cool homepage and leaderboard functionality. 
 Feel free to repurpose this quiz. 
 
 Questions stored in "quizData.Json". You can add your own if needed. 
+
+Made for school related stuff.
